@@ -1,0 +1,16 @@
+.itembg {
+  height: 100%;
+  background-image: url(./assets/login-background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 1;
+  display: flex;
+  position: relative;
+  z-index: 1;
+  flex-direction: column;
+  /* -webkit-box-pack: center; /
+  justify-content: center;
+  / -webkit-box-align: center; */
+  align-items: center;
+  overflow: hidden;
+}
